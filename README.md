@@ -4,3 +4,5 @@ Are you looking forward to Cyclone? Got a 3D printer? Good! Show everyone what's
 ## What's included?
 - The STL file.
 - The Blender Source File.
+
+Results can vary based on material, noozle size, temperture, etc.
